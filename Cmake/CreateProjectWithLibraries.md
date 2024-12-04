@@ -1,7 +1,7 @@
 Структура проекта
-![[Drawing 2024-12-03 20.58.02.excalidraw]]
+![Drawing 2024-12-03 20.58.02.excalidraw](photo/4.png)
 Зависимости библиотек
-![[Drawing 2024-12-03 21.07.42.excalidraw]]
+![Drawing 2024-12-03 21.07.42.excalidraw](photo/5.png)
 libA.hpp
 ```c++
 #pragma once
