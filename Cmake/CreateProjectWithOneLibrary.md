@@ -1,5 +1,5 @@
 Структура проекта:
-![[Drawing 2024-12-03 20.03.35.excalidraw]]
+![Drawing 2024-12-03 20.03.35.excalidraw](photo/2.png)
 main.cpp
 ```c++
 #include "foo.hpp"
