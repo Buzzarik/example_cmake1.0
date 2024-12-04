@@ -1,5 +1,5 @@
 Структура проекта:
-![[Drawing 2024-12-03 19.43.56.excalidraw]]
+![Drawing 2024-12-03 19.43.56.excalidraw](photo/1.png)
 Пример main.cpp
 ```c++
 #include <iostream>
