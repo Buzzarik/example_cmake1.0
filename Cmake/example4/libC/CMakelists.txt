@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.15)
+project(libC)
+
+add_library(libC STATIC src/libC.cpp)
+target_include_directories(libC PUBLIC include)
+target_link_libraries(libC PUBLIC libA)
